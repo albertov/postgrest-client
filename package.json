@@ -26,7 +26,8 @@
     "postversion": "git push origin master --tags && npm publish"
   },
   "dependencies": {
-    "querystring": "^0.2.0"
+    "querystring": "^0.2.0",
+    "isomorphic-fetch": "^2.2.1"
   },
   "devDependencies": {
     "babel-cli": "^6.3.17",
